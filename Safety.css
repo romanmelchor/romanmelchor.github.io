@@ -1,0 +1,102 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  width: 800px;
+  height: 100%;
+  background-image: url(http://cdn.wallpapersafari.com/64/75/vz7gaq.jpg);
+  color: #EFECE6;
+}
+
+header {
+  background-image: url(File://C:/Users/CAW/ProjectsCF/Images/Banner1.jpg);
+  text-align: right;
+  padding: 5px;
+  color: #D85F3E;
+  font-size: ;
+  display: block;
+}
+
+header h1 {
+  padding-right: 245px;
+  font-size: 30pt;
+}
+
+#clown1 {
+  width: 50%;
+  height: 50%;
+}
+
+.list {
+  padding: 5px;
+}
+
+article h2 {
+  border-style: outset;
+  text-align: center;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  padding: ;
+  float: left;
+  border-bottom: ;
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+}
+
+.clownwarning {
+  text-align: center;
+}
+
+a {
+  color: ;
+}
+
+section {
+  width: 73%;
+  display: inline-block;
+  float: left;
+}
+
+aside {
+  width: 17%;
+  display: inline-block;
+  background-color:;
+  padding:;
+  min-height: 100%;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+article li {
+  padding: 5px;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  display: block;
+}
